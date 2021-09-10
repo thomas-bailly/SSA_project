@@ -34,4 +34,4 @@ For run the script enter a command like this: `python3 ./src/ssa.py ./data/1bat1
 
 You can redirect the result with > : `python3 ./src/ssa.py ./data/1bta1FH.pdb A > ./result/1bta_ssa.txt`
 
-The result for the file 2jk9FH.pdb and 3h7hFH.pdb are already present in the subdirectory result.
+The result for the file 3h7hFH.pdb is already present in the subdirectory result.
