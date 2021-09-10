@@ -13,7 +13,7 @@ For the install on MacOSX, enter in a shell the command below : `bash Miniconda3
 - Scipy
 - Biopython
 
-If you have conda, enter the command below: `conda env create -f env.yml` in the SSA_project directory, then `conda activate ssa_project` for activate the environment with the librairies. enter `conda deactivate` for exit the environment.
+If you have conda, enter the command below: `conda env create -f env.yml` in the SSA_project directory, then: `conda activate ssa_project` for activate the environment with the librairies. enter `conda deactivate` for exit the environment.
 
 If you don't have conda, enter the command: `python3 -m pip install --user scipy biopython`
 ### Pdb file with hydrogens
