@@ -15,7 +15,7 @@ For the install on MacOSX, enter in a shell the command below : `bash Miniconda3
 
 If you have conda, enter the command below: `conda env create -f env.yml` in the SSA_project directory, then `conda activate ssa_project` for activate the environment with the librairies. enter `conda deactivate` for exit the environment.
 
-If you don't have conda, enter the command: `python -m pip install --user scipy biopython`
+If you don't have conda, enter the command: `python3 -m pip install --user scipy biopython`
 ### Pdb file with hydrogens
 The script needs the hydrogens to be in the pdb file to work properly. For add the hydrogens you can go in [Molprobity](http://molprobity.biochem.duke.edu/), upload your file or fetch the pdb code and add hydrogens. For Linux users you can donwload the reduce program wit the command :
 
@@ -28,10 +28,10 @@ here's an example of use: `reduce -BUILD -i 2obv.pdb > 2obvFH.pdb`
 
 ## Usage
 
-Go to the SSA_project directory and enter: `python ./src/ssa.py help` for obtain the help. 
+Go to the SSA_project directory and enter: `python3 ./src/ssa.py help` for obtain the help. 
 
-For run the script enter a command like this: `python ./src/ssa.py ./data/1bat1FH.pdb A`
+For run the script enter a command like this: `python3 ./src/ssa.py ./data/1bat1FH.pdb A`
 
-You can redirect the result with > : `python ./src/ssa.py ./data/1bta1FH.pdb A > ./result/1bta_ssa.txt`
+You can redirect the result with > : `python3 ./src/ssa.py ./data/1bta1FH.pdb A > ./result/1bta_ssa.txt`
 
 The result for the file 2jk9FH.pdb and 3h7hFH.pdb are already present in the subdirectory result.
