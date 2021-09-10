@@ -1,8 +1,0 @@
-name: ssa_project
-channel:
-    - default
-    - conda-forge
-dependencies:
-    - numpy
-    - scipy
-    - biopython
