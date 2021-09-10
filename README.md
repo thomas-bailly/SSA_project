@@ -1,5 +1,5 @@
 # SSA_project
-Python script for Secondary Structure Assignement
+Python script for Secondary Structure Assignement base on hydrogen bonds
 ## Requirement
 ### Python
 For windows users who don't have Python you can download it at this address: https://docs.conda.io/en/latest/miniconda.html
