@@ -1,0 +1,10 @@
+name: ssa_project
+channel:
+    - default
+    - conda-forge
+    - ostrokach-forge
+dependencies:
+    - numpy
+    - scipy
+    - biopython
+    - reduce
