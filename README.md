@@ -31,10 +31,10 @@ here's an example of use: `reduce -BUILD -i 2obv.pdb > 2obvFH.pdb`
 
 ## Usage
 
-Go to the SSA_project directory and enter: `python3 ./src/ssa.py help` for obtain the help. 
+Go to the SSA_project directory and enter: `python ./src/ssa.py help` for obtain the help. 
 
-For run the script enter a command like this: `python3 ./src/ssa.py ./data/1bat1FH.pdb A`
+For run the script enter a command like this: `python ./src/ssa.py ./data/1bat1FH.pdb A`
 
-You can redirect the result with > : `python3 ./src/ssa.py ./data/1bta1FH.pdb A > ./result/1bta_ssa.txt`
+You can redirect the result with > : `python ./src/ssa.py ./data/1bta1FH.pdb A > ./result/1bta_ssa.txt`
 
 The result for the file 3h7hFH.pdb is already present in the subdirectory result.
