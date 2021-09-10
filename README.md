@@ -10,7 +10,6 @@ For the install on Linux, enter in a shell the command below : `bash Miniconda3-
 
 For the install on MacOSX, enter in a shell the command below : `bash Miniconda3-latest-MacOSX-x86_64.sh`
 ### Librairies
-- Numpy
 - Scipy
 - Biopython
 ### Pdb file with hydrogens
@@ -18,5 +17,8 @@ The script needs the hydrogens to be in the pdb file to work properly. For add t
 
 `conda install -c ostrokach-forge reduce`
 
+#### Reduce
+If you just enter reduce in a shell, you can see the help.
 
+here's an example of use: `reduce -BUILD -i 2obv.pdb > 2obvFH.pdb`
 
