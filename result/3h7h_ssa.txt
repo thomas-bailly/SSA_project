@@ -1,0 +1,133 @@
+﻿==================================================
+Date : 2021/09/10 18:29:29
+Program : Secondary Strcuture Assignement (ssa)
+Version : 1.0.0
+Author : Thomas Bailly
+Input file : .\data\3h7hFH.pdb
+Chaine : A
+--------------------------------------------------
+B : sense beta sheet
+b : anti-sense beta sheet
+C : random coil
+H : alpha helix
+G : 3,10 helix
+I : pi helix
+T : turn
+==================================================
+1      GLY    C     
+2      ALA    G     
+3      LEU    G     
+4      GLU    G     
+5      THR    G     
+6      VAL    G     
+7      PRO    C     
+8      LYS    C     
+9      ASP    C     
+10     LEU    C     
+11     ARG    C     
+12     HIS    b     
+13     LEU    b     
+14     ARG    b     
+15     ALA    C     
+16     CYS    T     
+17     LEU    T     
+18     LEU    T     
+19     CYS    T     
+20     SER    T     
+21     LEU    C     
+22     VAL    C     
+23     LYS    b     
+24     THR    b     
+25     ILE    b     
+26     ASP    H     
+27     GLN    H     
+28     PHE    H     
+29     GLU    H     
+30     TYR    H     
+31     ASP    H     
+32     GLY    H     
+33     CYS    T     
+34     ASP    C     
+35     ASN    C     
+36     CYS    H     
+37     ASP    H     
+38     ALA    C     
+39     TYR    C     
+40     LEU    H     
+41     GLN    H     
+42     MET    H     
+43     LYS    H     
+44     GLY    H     
+45     ASN    H     
+46     ARG    H     
+47     GLU    H     
+48     MET    H     
+49     VAL    H     
+50     TYR    H     
+51     ASP    H     
+52     CYS    H     
+53     THR    H     
+54     SER    C     
+55     SER    C     
+56     SER    b     
+57     PHE    b     
+58     ASP    b     
+59     GLY    b     
+60     ILE    b     
+61     ILE    b     
+62     ALA    b     
+63     MET    b     
+64     MET    C     
+65     SER    G     
+66     PRO    G     
+67     GLU    G     
+68     ASP    G     
+69     SER    G     
+70     TRP    H     
+71     VAL    H     
+72     SER    I     
+73     LYS    G     
+74     TRP    H     
+75     GLN    H     
+76     ARG    T     
+77     VAL    T     
+78     SER    T     
+79     ASN    T     
+80     PHE    T     
+81     LYS    C     
+82     PRO    C     
+83     GLY    b     
+84     VAL    b     
+85     TYR    b     
+86     ALA    b     
+87     VAL    b     
+88     SER    b     
+89     VAL    b     
+90     THR    b     
+91     GLY    C     
+92     ARG    C     
+93     LEU    C     
+94     PRO    H     
+95     GLN    H     
+96     GLY    H     
+97     ILE    H     
+98     VAL    H     
+99     ARG    H     
+100    GLU    H     
+101    LEU    H     
+102    LYS    H     
+103    SER    H     
+104    ARG    H     
+105    GLY    H     
+106    VAL    H     
+107    ALA    C     
+108    TYR    C     
+109    LYS    C     
+110    SER    C     
+111    ARG    C     
+112    ASP    C     
+113    THR    C     
+114    ALA    C     
+115    ILE    C     
+116    LYS    C     
+117    THR    C     
