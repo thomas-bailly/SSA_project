@@ -14,5 +14,9 @@ For the install on MacOSX, enter in a shell the command below : `bash Miniconda3
 - Scipy
 - Biopython
 ### Pdb file with hydrogens
-The script needs the hydrogens to be in the pdb file to work properly. For add the hydrogens you can go in [Molprobity](http://molprobity.biochem.duke.edu/), upload your file or fetch the pdb code and add hydrogens. For Linux users you can donwload the reduce program wit the command : `conda install -c ostrokach-forge reduce`
+The script needs the hydrogens to be in the pdb file to work properly. For add the hydrogens you can go in [Molprobity](http://molprobity.biochem.duke.edu/), upload your file or fetch the pdb code and add hydrogens. For Linux users you can donwload the reduce program wit the command :
+
+`conda install -c ostrokach-forge reduce`
+
+
 
