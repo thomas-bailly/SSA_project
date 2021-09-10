@@ -4,7 +4,7 @@ Program : Secondary Strcuture Assignement (ssa)
 Version : 1.0.0
 Author : Thomas Bailly
 Input file : .\data\3h7hFH.pdb
-Chaine : A
+Chain : A
 --------------------------------------------------
 B : sense beta sheet
 b : anti-sense beta sheet
