@@ -28,3 +28,4 @@ here's an example of use: `reduce -BUILD -i 2obv.pdb > 2obvFH.pdb`
 
 ## Usage
 
+Go to the SSA_project directory and enter: `python ./src/ssa.py help` for obtain the help. 
