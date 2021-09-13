@@ -1,5 +1,5 @@
 # SSA_project
-Python script for Secondary Structure Assignement base on hydrogen bonds
+Python script for Secondary Structure Assignement based on the calculation of hydrogen bond energy and bond pattern recognition.
 
 if you have git : `git clone https://github.com/thomas-bailly/SSA_project.git` or click on code and select download zip.
 ## Requirement
