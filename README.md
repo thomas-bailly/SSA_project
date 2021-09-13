@@ -1,7 +1,7 @@
 # SSA_project
 Python script for Secondary Structure Assignement base on hydrogen bonds
 
-`git clone https://github.com/thomas-bailly/SSA_project.git`
+if you have git : `git clone https://github.com/thomas-bailly/SSA_project.git` or click on code and select download zip.
 ## Requirement
 ### Python
 For windows users who don't have Python you can download it at this address: https://docs.conda.io/en/latest/miniconda.html
