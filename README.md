@@ -1,10 +1,10 @@
 # SSA_project
 Python script for Secondary Structure Assignement based on the calculation of hydrogen bond energy and bond pattern recognition.
 
-if you have git : `git clone https://github.com/thomas-bailly/SSA_project.git` or click on code and select download zip.
+if you have git use: `git clone https://github.com/thomas-bailly/SSA_project.git` or click on code and select download zip.
 ## Requirement
 ### Python
-For windows users who don't have Python you can download it at this address: https://docs.conda.io/en/latest/miniconda.html then enter: `conda init` in a shell.
+For windows users who don't have Python you can download it at this address: https://docs.conda.io/en/latest/miniconda.html then enter: `conda init` in a shell after installation.
 
 For MacOSX and systems Linux users if you don't have Miniconda3, I recommend you to download it with the link above.
 
