@@ -33,7 +33,7 @@ here's an example of use: `reduce -BUILD -i 2obv.pdb > 2obvFH.pdb`
 
 Go to the SSA_project directory and enter: `python ./src/ssa.py help` for obtain the help. 
 
-To run the script enter a command like this: `python ./src/ssa.py ./data/1bta1FH.pdb A`
+To run the script enter a command like this : `python ./src/ssa.py ./data/1bta1FH.pdb A`
 
 You can redirect the result in a file with > : `python ./src/ssa.py ./data/1bta1FH.pdb A > ./result/1bta_ssa.txt`
 
@@ -41,4 +41,4 @@ The result for the file 3h7hFH.pdb is already present in the subdirectory result
 
 For Linux and MacOSX users you can install the dssp program with the following command: `conda install -c salilab dssp` to compare the result with ssa program. 
 
-Tor run dssp enter the command like this: `mkdssp -i ./data/1bta1FH.pdb > ./result/1bta_dssp.txt`
+Tor run dssp enter a command like this : `mkdssp -i ./data/1bta1FH.pdb > ./result/1bta_dssp.txt`
