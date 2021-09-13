@@ -39,4 +39,6 @@ You can redirect the result in a file with > : `python ./src/ssa.py ./data/1bta1
 
 The result for the file 3h7hFH.pdb is already present in the subdirectory result.
 
-For Linux and MacOSX users you can install the dssp program with the following command: `conda install -c salilab dssp` to compare the result with ssa program.
+For Linux and MacOSX users you can install the dssp program with the following command: `conda install -c salilab dssp` to compare the result with ssa program. 
+
+Tor run dssp enter the command like this: `mkdssp -i ./data/1bta1FH.pdb > ./result/1bta_dssp.txt`
